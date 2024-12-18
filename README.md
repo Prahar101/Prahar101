@@ -13,6 +13,7 @@ Passionate about leveraging **data-driven insights** and building scalable solut
 
 ---
 📚 Projects
+
 🎵 Music Genre Classification & Analysis
 Built a CNN model to classify music genres. Preprocessed audio with Librosa and deployed using FastAPI on Azure. Visualized insights with Power BI.
 
