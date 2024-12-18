@@ -34,5 +34,15 @@ Passionate about leveraging **data-driven insights** and building scalable solut
 **Tools**: Python, Scikit-learn, Power BI  
 - Built a **Support Vector Regression (SVR)** model to predict developer salaries.  
 - Preprocessed datasets: handled missing data, normalized features, and standardized job titles.  
-- Optimized models with hyperparameter tuning and evaluated performance using **R² and MAE**.  
+- Optimized models with hyperparameter tuning and evaluated performance using **R² and MAE**.
+- 
+### 📫 **Connect With Me**
+<p align="left">
+  <a href="mailto:Prahars25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prahar-shah-238741207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
