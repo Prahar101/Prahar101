@@ -36,11 +36,3 @@ Passionate about leveraging **data-driven insights** and building scalable solut
 - Preprocessed datasets: handled missing data, normalized features, and standardized job titles.  
 - Optimized models with hyperparameter tuning and evaluated performance using **R² and MAE**.  
 
----
-
-### 📈 **Skills Overview**
-```plaintext
-- Programming: Python, SQL, C++
-- Visualization: Power BI, Tableau, MS Excel (VBA, Pivot)
-- Data Science: Predictive Analytics, ETL Pipelines, Statistical Analysis
-- Tools: Scikit-learn, TensorFlow, FastAPI, Docker
