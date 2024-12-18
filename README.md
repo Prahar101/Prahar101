@@ -12,6 +12,20 @@ Passionate about leveraging **data-driven insights** and building scalable solut
 - 📬 How to reach me: [prahars25@gmail.com](mailto:prahars25@gmail.com)
 
 ---
+📚 Projects
+🎵 Music Genre Classification & Analysis
+Built a CNN model to classify music genres. Preprocessed audio with Librosa and deployed using FastAPI on Azure. Visualized insights with Power BI.
+
+💼 Software Developer Salary Prediction
+Developed an SVR model to predict salaries. Handled data preprocessing, optimized performance, and compared models like Random Forest.
+
+🔒 Network Penetration and Protection
+Simulated attacks using Kali Linux and Metasploit. Secured networks with Snort IDS and Iptables. Analyzed traffic with Wireshark.
+
+🛡️ Zero-Trust Network Security
+Deployed Palo Alto NGFW with a Zero-Trust Model. Configured firewall rules, IPS, and blocked real-world exploits like MS17-010.
+
+---
 
 ### 📫 **Connect With Me**
 <p align="left">
