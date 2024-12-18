@@ -35,7 +35,7 @@ Passionate about leveraging **data-driven insights** and building scalable solut
 - Built a **Support Vector Regression (SVR)** model to predict developer salaries.  
 - Preprocessed datasets: handled missing data, normalized features, and standardized job titles.  
 - Optimized models with hyperparameter tuning and evaluated performance using **R² and MAE**.
-- 
+
 ### 📫 **Connect With Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/prahar-shah-238741207/">
