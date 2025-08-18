@@ -7,8 +7,8 @@
 
 ### 🚀 **About Me**
 - 🎓 **Master of Engineering** in Electrical and Computer Engineering at University of Victoria *(January 2024 - Present)*
-- 💼 **Data Analyst Intern** at Arth Infosoft *(January 2023 - May 2023)*
-- 👨‍🏫 **Graduate Teaching Assistant** for Data Analysis & Pattern Recognition *(January 2024 - April 2024)*  
+- 💼 **Junior Security Analyst** at Heritage Cyberworld Pvt Ltd. *(June 2023 - December 2023)*
+- 👨‍🏫 **Graduate Teaching Assistant**  *(January 2024 - December 2024)*  
 - 📬 How to reach me: [prahars25@gmail.com](mailto:prahars25@gmail.com)
 
 ---
