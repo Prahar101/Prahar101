@@ -1,6 +1,6 @@
 # Hi there, it's Prahar Shah 👋
 
-**MEng in Electrical and Computer Engineering(ECE) at University of Victoria with a strong focus on Information and Network Security, actively seeking Fall 2025 Co-op.**  
+**MEng in Electrical and Computer Engineering(ECE) at University of Victoria with a strong focus on Information and Network Security, actively seeking 2026 Co-op opportunities.**  
 
 
 ---
